@@ -18,3 +18,12 @@
     transform: rotate(360deg);
   }
 }
+
+.ss-content {
+  overflow-y: auto !important;
+}
+
+.ss-main {
+  display: flex !important;
+  width: 500px !important;
+}
