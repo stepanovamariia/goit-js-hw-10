@@ -12,7 +12,6 @@ errorEl.style.color = 'red';
 errorEl.style.display = 'none';
 selectCatEl.style.display = 'none';
 
-console.log('hello');
 function populateSelectWithBreeds() {
   fetchBreeds()
     .then(breeds => {
